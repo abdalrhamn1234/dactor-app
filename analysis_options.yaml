@@ -1,0 +1,4 @@
+include: package:flutter_lints/flutter.yaml
+liner:
+  rules:
+    prefer_const_constructors: false
